@@ -1,0 +1,24 @@
+To open the program directly, go to DeadDreadV1/bin/Debug/DeadDreadV1.exe (107,153KB)
+It can also be opened from the code file in the first folder (Microsoft Visual Studio file) (1KB)
+
+The program required to view the code and open it from the second step is either Visual Basic 2010 express
+in which this was made or any Visual Studio program should work too. 
+
+- Extra Info -
+
+This is the third version of the game despite most of its file names. 
+
+This is a very buggy program due to the visual limitations of Visual Basic. It is unfinished due to this fact.
+It has a total of 2 levels, 2 types of monsters, 2 obstacles and 4 characters (2 of which are off track).
+The art does not belong to me, which is why this game is not "public" except for being showcased on
+linkedin. 
+
+(spoilers, not so spoilers)
+
+To beat Level 0, you simply have to jump over the lava at the bottom floor in a pattern before your 
+health drains and make it to the other side which is a door.
+
+Level 1 cannot be beat (incomplete) but talking to the NPC allows for a short tutorial, there is 
+also a hidden NPC as an easter egg for my friends. 
+
+This program is solely made by me (Maaz Zaidi) in 2018. 
